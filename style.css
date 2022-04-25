@@ -1,6 +1,6 @@
 header {
     background-color: #ffa500;
-    color:black;
+    color:#0000FF;
     margin: auto;
     text-align: center;
     width: 800px;
@@ -14,20 +14,21 @@ body {
 }
 article {
     background-color: #FFA500;
-    color: black;
+    color: #0000FF;
     margin: auto;
     border-left: 10px;
     border-left: 10px;
     width: 800px;
 }
 html {
-    background-color: #0000FF;
+    background-color: #FFA500;
 }
 
 hr {
     color: red;
+    background-color: #0000FF;
     border: none;
-    height: 5px;
+    height: 2px;
     box-shadow: 0 1px 4px 1px cornflowerblue;
 }
 
