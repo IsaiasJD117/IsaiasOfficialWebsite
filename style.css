@@ -1,3 +1,4 @@
+/*Style Header*/
 header {
     background-color: #ffa500;
     color:#0000FF;
@@ -20,6 +21,8 @@ article {
     border-left: 10px;
     width: 800px;
 }
+/*Styles parent HTML element*/
+
 html {
     background-color: #FFA500;
 }
@@ -37,6 +40,8 @@ ol {
     font-family: Comic Sans MS, cursive;
 }
 
+/*Styles for Links */
+
 a:link { color: blue; }
 a:visited { color: red; }
 a:hover { color: green; }
@@ -45,6 +50,7 @@ a:active { color: purple; }
 body h1 {
     font-size: 40px;
 }
+/* Styles profile-pic image*/
 .profile-pic {
     width: 400px;
     height; 600px;
