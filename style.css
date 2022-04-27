@@ -53,11 +53,30 @@ body h1 {
 /* Styles profile-pic image*/
 .profile-pic {
     width: 400px;
-    height; 600px;
+    height: 600px;
     box-sizing: border-box;
 }
 .About-Me {
     margin-left: 10px;
     margin-right: 10px;
     box-sizing: border-box;
+}
+
+footer {
+    margin: auto;
+    height: auto;
+    width: 800px;
+    color: #0000FF;
+}
+.profile-pic2 {
+    height: 400px;
+    width: 300px;
+}
+ul {
+    
+    text-align: left;
+    width: 150px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
